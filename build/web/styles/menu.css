@@ -1,0 +1,36 @@
+#left-content {
+    width: 500%;
+    margin-top: 20px;
+}
+
+.menu-box {
+    margin-bottom: 30px;
+}
+
+.menu-box tr {
+    text-decoration: none;
+}
+
+.tr-left {
+    text-align: left;
+    border-top: 1px solid #ddd;
+}
+
+.tr-right {
+    text-align: right;
+    border-top: 1px solid #ddd;
+}
+
+table {
+    width: 100%;
+    border-spacing: 0;
+}
+
+div.menu-box:nth-child(5) {
+    border-bottom: 0px;
+}
+
+td, th {
+    padding: 8px;
+}
+

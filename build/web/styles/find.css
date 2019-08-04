@@ -1,0 +1,27 @@
+#left-content {
+    width: 400%;
+    margin-top: 20px;
+}
+
+#address-box {
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 20px;
+}
+
+#address-box p {
+    margin: 0px;
+}
+
+#address-box-child-mr {
+    margin-right: 25%;
+}
+
+div#left-content img {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+datax {
+    white-space: pre;
+}
