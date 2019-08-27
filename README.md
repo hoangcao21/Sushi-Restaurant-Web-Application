@@ -2,7 +2,7 @@
 
 This is a web application running on Apache Tomcat server to demonstrate a simple sushi restaurant website.
 
-The application hardly uses JavaScript, mainly build with JSP & Servlets, JSTL, Expression Language and pure HTML & CSS.
+The application mainly build with JSP & Servlets, JSTL, Expression Language and pure HTML & CSS.
 
 ![](https://i.imgur.com/ffLsRlx.png)
 
